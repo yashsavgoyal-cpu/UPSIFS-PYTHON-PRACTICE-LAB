@@ -4,3 +4,5 @@ def remove_last(l):
     print(l)
 
 remove_last([1,4,3,5,6,3])
+
+#[1,4,3,5,6]
