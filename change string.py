@@ -4,3 +4,5 @@ def change_string(s):
     print(s1)
     
 change_string("GitHub")
+
+Output:XitHub
