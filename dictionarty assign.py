@@ -14,3 +14,8 @@ def reassign_dict(d):
 
 add_entry({"Y":18,"A":7,"S":11})
 reassign_dict({"Y":18,"A":7,"S":11})
+
+#ENTER KEYAN
+#ENTER VALUE19
+#{'Y': 18, 'A': 7, 'S': 11, 'AN': 19}
+#{'Y': 18, 'A': 7, 'S': 11}
