@@ -5,4 +5,4 @@ def change_string(s):
     
 change_string("GitHub")
 
-Output:XitHub
+#Output:XitHub
