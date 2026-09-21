@@ -6,3 +6,5 @@ def fact(n):
     print(f)
 
 fact(5)
+
+#120
